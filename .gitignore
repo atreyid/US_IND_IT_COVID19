@@ -1,3 +1,3 @@
 .ipynb_checkpoints
 **/*.ipynb_checkpoints/
-US_IND_IT_COVID19.ipynb
+*.ipynb
