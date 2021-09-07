@@ -1,4 +1,4 @@
-# US_IND_IT_COVID19
+# Analysis of COVID-19 data for certain countries
 
 Covid-19 pandemic has left us sheltered in our homes. Various news media report the ever-increasing trends in the number of cases and more frightening: the number of deaths. The various news media also report fancy terms like exponential trends, flattening the curve and several more buzz-words which can be overwhelming if this is the first time you have heard such terms. It's hard, not to feel panicked. I, personally, have found it difficult to explain to the elderly family members what these terms mean.
 
